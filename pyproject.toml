@@ -21,6 +21,9 @@ seaborn = "^0.12.2"
 tqdm = "^4.65.0"
 
 
+[tool.poetry.group.dev.dependencies]
+black = "^23.9.1"
+
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
