@@ -1,0 +1,9 @@
+{
+    "data_path": "/Users/nimisha/Downloads/Tiny_Portraits_Images/",
+    "csv_path":"debiased_classifier/data/csvs/Tiny_Portraits_Attributes_Test.csv",
+    "model_path":"saved_models/best_Hair_Color.pth",
+    "feature_savepath":"saved_models/HC_features.hdf5",
+    "selected_attribute":"Hair_Color",
+    "image_size":64,
+    "batch_size":4
+}

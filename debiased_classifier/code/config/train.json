@@ -1,0 +1,9 @@
+{
+    "data_path": "/Users/nimisha/Downloads/Tiny_Portraits_Images/",
+    "csv_path":"debiased_classifier/data/csvs/Tiny_Portraits_Attributes_Train.csv",
+    "save_path":"saved_models/",
+    "selected_attribute":"Hair_Color",   
+    "image_size":64,
+    "batch_size":64,
+    "max_epochs":10    
+}
